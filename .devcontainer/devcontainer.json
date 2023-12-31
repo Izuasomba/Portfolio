@@ -4,8 +4,7 @@
   "name": "JavaScript Portfolio Site with GitHub Codespaces",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
-    "cpus": 4
-  },
+    "cpus": 4},
   "waitFor": "onCreateCommand",
   "updateContentCommand": "npm install",
   "postCreateCommand": "",
