@@ -43,7 +43,7 @@ const projectList = [
     url: "https://github.com/Izuasomba/email-del",
   },
   {
-    title: "Face recognitio",
+    title: "Face recognition",
     description:
       "Developed a face recognition model with siames neural network.",
     url: "https://github.com/Izuasomba/Face-recognition",
@@ -64,7 +64,7 @@ const Portfolio = () => {
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             src={image}
-            style={{ height: "90%", width: "100%", objectFit: "cover" }}
+            style={{ height: "90%", width: "100%", objectFit: "cover", animation: "1s ease-out 0s 1 slideInLeft"}}
             alt={imageAltText}
           />
         </div>
