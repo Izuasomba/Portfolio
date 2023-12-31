@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Credit card fraud detection with machine learning",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+  "Used machine learning algorithms to predict if a particular card transaction is legitimate or fraudulent.",
+    url: "https://github.com/Izuasomba/credit-card-fraud-detection",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Email del",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A python script that helps to decluster your mailbox by deleting unopened emails older than 30 days.",
+    url: "https://github.com/Izuasomba/email-del",
   },
   {
-    title: "My Resume Site",
+    title: "Face recognitio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a face recognition model with siames neural network.",
+    url: "https://github.com/Izuasomba/Face-recognition",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Movie recommendation system",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a movie recommendation system using cosine similarity.",
+    url: "https://github.com/Izuasomba/Movie-recommendation-system",
   },
 ];
 
